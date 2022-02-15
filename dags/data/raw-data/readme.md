@@ -1,0 +1,1 @@
+This folder contains all the files in the folder data_from_sas_dictionary, enrich_data, sas_data, temperature_data, and files in data folder.
